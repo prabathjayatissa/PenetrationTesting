@@ -1,4 +1,4 @@
-# Penetration Testing Study Guide for Bachelor’s Students
+# Penetration Testing Study Guide for Bachelor’s Students 
 
 ---
 
