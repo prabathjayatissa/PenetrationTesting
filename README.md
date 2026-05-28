@@ -11,7 +11,7 @@ Penetration testing (or “pentesting”) is the legal and authorized process of
 A penetration tester acts like an ethical hacker:
 - Finds vulnerabilities
 - Exploits them safely
-- Reports how to fix them
+- Reports how to fix them.
 
 ---
 
